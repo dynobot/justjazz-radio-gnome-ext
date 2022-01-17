@@ -1,4 +1,4 @@
-# SomaFM Gnome Extension
+# JustJazz Gnome Extension
 
 Listen to soma fm free internet radio using gnome shell
 
